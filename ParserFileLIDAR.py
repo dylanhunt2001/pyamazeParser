@@ -95,5 +95,5 @@ class Micromouse:
 
 if __name__=="__main__":
     a = Micromouse('inputfile.txt', (4,2))
-    a.createMaze()
+    #a.createMaze()
  
